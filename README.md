@@ -33,8 +33,12 @@ pip install -r requirements.txt
 
 ## 🛠️ Usage
 1. Build the executable:
-2. python main.py
-3. Only deploy to systems you own!
+2. [Create an Discord Bot and enable all 3 Privileged Gateway Intents](https://discord.com/developers/applications)
+3. Create an Discord Server
+4. Invite him to your choosen Discord Server with Administrator permissions
+5. run main.py
+6. Go through the installation process
+7. Only deploy to systems you own!
 
 ## 🚨 Ethical Rules
 ✅ Allowed:
