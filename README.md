@@ -28,7 +28,8 @@ By using this software, you agree to these terms.
 ```bash
 git clone https://github.com/yourusername/napoleon-rat.git
 cd napoleon-rat
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ## 🛠️ Usage
 1. Build the executable:
