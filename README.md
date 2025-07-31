@@ -59,5 +59,6 @@ We accept PRs for:
 
 This project demonstrates security concepts for defensive research. Use responsibly.
 
+![Commands](https://media.discordapp.net/attachments/1349772544848302181/1400432754449059910/image.png?ex=688c9e23&is=688b4ca3&hm=673ead08adfb40cae6210f5c4b48037bed657e8c258460f8a1af540709264594&=)
 ![Commands](https://cdn.discordapp.com/attachments/1349772544848302181/1400433178258444390/image.png?ex=688c9e88&is=688b4d08&hm=fc0a97363b47701a7e3a11b62e63dad693d58d8a67fb838e1c6c9bffdbdf553b&)
 ![Commands](https://media.discordapp.net/attachments/1349772544848302181/1400433219509289062/image.png?ex=688c9e92&is=688b4d12&hm=c3f3ac479f8f39420faf8316d19ec6cd4c2fd1c93e6acd48827774b7cbb8149f&=)
