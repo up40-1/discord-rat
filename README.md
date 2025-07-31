@@ -26,7 +26,7 @@ By using this software, you agree to these terms.
 
 ## 🚀 Installation  
 ```bash
-git clone https://github.com/yourusername/napoleon-rat.git
+git clone https://github.com/up40-1/napoleon-rat.git
 cd napoleon-rat
 pip install -r requirements.txt
 ```
